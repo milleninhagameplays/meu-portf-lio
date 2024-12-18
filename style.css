@@ -1,0 +1,100 @@
+body {
+background-color: rgba(150, 185, 231, 0.788);
+margin:0;
+
+}
+
+#menu {
+background-color: rgba(148, 138, 239, 0.69);
+width:300px ;
+height: 1000px;
+text-align: center;
+box-shadow: 5px 5px 5px rgba(59,17,45, 0.5);
+margin-top: -30px;
+position: fixed;
+
+}
+
+.Logo {
+width: 150px;
+border: 7px double #42106087 ; 
+border-radius: 50%;
+margin-top: 70px;
+box-shadow: 5px 5px 5px rgba(59,17,45, 0.5);
+}
+
+h1, h2 {
+font-size: 1.6rem;
+font-family:"Comic Sans MS";
+text-shadow:5px 5px 5px rgba(59,17,45, 0.5);
+color: #42106087;
+}
+
+.links {
+text-decoration: none;
+color: #42106087;
+font-size: 1.5rem;
+font-family:"Comic Sans MS";
+display: flex;
+flex-direction: column;
+padding-top: 1rem ;
+transition: all 0.7s ease-in-out;
+text-shadow:5px 5px 5px rgba(59,17,45, 0.5) ;
+}
+
+.links:hover {
+background-color: #774fb8b2 aliceblue; 
+color: black;
+font-weight: bold;
+text-shadow:5px 5px 5px rgba(59,17,45, 0.5) ;
+}
+
+header{
+float: left;
+}
+
+.info1{
+background-color: rgba(148, 138, 239, 0.69);
+margin: 1rem 1rem 1.5rem 20rem;
+border-radius: 1rem;
+padding: 1rem;
+box-shadow: 5px 5px 10px rgba(59,17,45, 0.5);
+color: aliceblue;
+}
+
+.info2, .info3, .info4, .info5, .info6, .info7, .info8 {
+    background-color: rgba(148, 138, 239, 0.69);
+    margin: 1rem 1rem 1.5rem 2rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 5px 5px 5px rgba(59,17,45, 0.5);
+    color: aliceblue;
+    width: 250px;
+    height: 200px;
+    }
+
+#conteudo {
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+padding-left: 300px;
+}
+
+footer {
+background-color: rgba(148, 138, 239, 0.69) ;
+color: aliceblue;
+font-size: 1.5rem;
+margin: -5px;
+clear: both;
+text-align: center;
+padding: 0.5rem;
+}
+
+h3, p {
+
+
+
+    
+}
+
+

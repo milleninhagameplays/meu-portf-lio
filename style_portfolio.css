@@ -1,0 +1,25 @@
+.gráfico{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.links2 {
+    background-color: rgba(148, 138, 239, 0.69) ;
+    margin-top: 1rem;
+    margin-right: 1.5rem;
+    margin-bottom: 1.5;
+    margin-left: 21rem;
+    padding: 1rem 1 rem;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    }
+    
+    .links2 a {
+    text-decoration: none;
+    font-family: serif;
+    font-size: 1.5rem;
+    color: aliceblue;
+    display: flex;
+    }
